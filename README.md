@@ -16,4 +16,5 @@ The goal of this project is to develop essential digital skills such as creating
 The project consists of five tasks, each aligned with a module of the course. All tasks are documented and supported with screenshots, files, and a detailed report.
 
 ---
-
+Links:
+Google Form- Digital Literacy Awareness: https://forms.gle/jfJY5A28WK6yEPW26
