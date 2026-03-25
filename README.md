@@ -18,3 +18,8 @@ The project consists of five tasks, each aligned with a module of the course. Al
 ---
 Links:
 Google Form- Digital Literacy Awareness: https://forms.gle/jfJY5A28WK6yEPW26
+Canva infographic: https://canva.link/8d4djh70gjlfw7t
+Githb profile: https://github.com/mishraankita01642-cmyk
+Linkedin profile: https://www.linkedin.com/in/ankita-ankita-1a16b1390/
+Stackoverflow profile: https://stackoverflow.com/users/32543748/ankita
+Haackerrank profile: https://www.hackerrank.com/profile/chocopie10785
